@@ -20,9 +20,7 @@ TeX模板elegantnote.cls来自于[ElegantNote](https://ctan.org/pkg/elegantnote)
 
 我提供了两版PDF，Block黑白版适合打印，Green为护眼模式，适合在电子设备上浏览。
 
-
-
-
+​      
 
 胡弘宇(微信: hhytxwg)
 
