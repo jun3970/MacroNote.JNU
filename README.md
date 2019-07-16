@@ -18,9 +18,9 @@ TeX模板elegantnote.cls来自于[ElegantNote](https://ctan.org/pkg/elegantnote)
 
 文中表格非手打，MacroNote.tgn为我在可视化网页[LaTeX Table Generator](https://www.tablesgenerator.com/)生成的表格文件，大家可以将之import到网页端之后进行修改。当然不反对您手敲 :) 
 
-我提供了两版PDF，Block黑白版适合打印，Green为护眼模式，适合在电子设备上浏览。
+我提供了两版PDF，Black黑白版适合打印，Green为护眼模式，适合在电子设备上浏览。
 
-​      
+​    
 
 胡弘宇(微信: hhytxwg)
 
